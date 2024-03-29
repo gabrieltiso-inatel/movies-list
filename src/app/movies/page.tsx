@@ -1,5 +1,3 @@
-import type { InferGetStaticPropsType, GetStaticProps } from 'next'
- 
 type Movie = {
   id: number
   movie_name: string
